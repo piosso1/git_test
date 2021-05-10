@@ -1,1 +1,1 @@
-This Patrick first git project on odin training
+This Patrick's first git project on odin training branch
